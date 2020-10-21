@@ -7,7 +7,7 @@ int sum_of_digit(int n)
 }  
 void main() 
 { 
-    int num = 12345; 
+    int num = 1234; 
     int result = sum_of_digit(num); 
     printf("Sum of digits in %d is %d\n", num, result); 
 } 
